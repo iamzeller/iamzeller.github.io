@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+}
+
+.fa-bars{
+	color: white;
+	padding: 1% 0% 0% 3%;
+}
+
+header{
+	background-color: #1b1b1b;
+	width: 100%;
+	height: 12vh;
+	position: fixed;
+	}
+
+.fundo{
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 95vh;
+
+
+}
+footer{
+	background-color: #1b1b1b;
+	width: 100%;
+	height: 12vh;
+	position: fixed;
+	margin-top:89vh;}
+span{
+	font-size:10vh;
+}
+h3{
+	font-size: 5vh;
+	margin-top: 20px;
+	color: white;
+}
+#botao{
+	display: inline;
+	position: fixed;
+	padding: 280px 30px;
+	width: 100%;
+}
+
+.a{
+	margin-left: 10px;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+	border: solid 1px white;
+	background-color: #335f4f;
+	font-size: 25px;
+	padding: 10px;
+
+}
