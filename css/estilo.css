@@ -1,0 +1,54 @@
+header{
+	padding:8px;
+	background-color: #333333;
+	width: auto;
+	height: 100vh;
+}
+
+/*MENU ICON*/
+.fa-bars{
+	color: white;
+}
+.fa-bars:active{
+	color: black;
+}
+/*MENU ICON FIM*/
+
+nav{
+	background-color: #424242;
+	border: solid 1px white;
+	padding: 10px;
+}
+
+.indice{
+	font-family: 'Bungee', cursive;
+	text-decoration: none;
+	font-size: 1.5em;
+	color: white;
+}
+
+li{
+	background-color: white;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+li:active{
+	background-color: black;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.a-menu{
+	text-decoration: none;
+	font-size: 1em;
+	color: black;
+
+}
+.a-menu:active{
+	text-decoration: none;
+	font-size: 1em;
+	color: white;
+
+}
